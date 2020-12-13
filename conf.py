@@ -9,7 +9,7 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
+    "name": "wenyi",
     "type": "local",
     "path": "../Galileo"
 }
@@ -36,8 +36,8 @@ external_links = [
     },
     {
         "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "url": "https://www.excellentweb.net",
+        "brief": "wenyi的主页。"
     }
 ]
 nav = [
